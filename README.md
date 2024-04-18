@@ -1,6 +1,6 @@
 # Hey! I'm Felipe Piotrovski Tasso 👋🏼.
 
-### I'm a FullStack Develper student. Quick learner, dedicated, and resilient, I don't give up easily. Embracing challenges is so exciting for me. Committed to enhancing my skills and performance.
+### I'm a FullStack Develper student. Quick learner, dedicated, resilient and don't give up easily. Embracing challenges is so exciting for me. Committed to enhancing my skills and performance.
 
 #
 

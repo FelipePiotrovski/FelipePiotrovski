@@ -13,7 +13,7 @@
 
 ![FelipePiotrovki GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePiotrovski&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiotrovski&hide_progress=false&layout=pie&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePiotrovski&hide_progress=false&layout=compact&theme=transparent)
 
 # 🖥️ All Lenguages and Tools:
 
